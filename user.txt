@@ -1,0 +1,22 @@
+USER = {
+    'automation1': {
+        'email': 'simetrikautomation1@gmail.com',
+        'pass': 'Automation1*S1m3tr1ck'
+    },
+    'automation2': {
+        'email': 'simetrikautomation2@gmail.com',
+        'pass': 'Automation2*S1m3tr1ck'
+    },
+    'viewer': {
+        'email': 'simetrikautomation3@gmail.com',
+        'pass': 'Automation2*S1m3tr1ck'
+    },
+    'operator': {
+        'email': 'simetrikautomation4@gmail.com',
+        'pass': 'Automation2*S1m3tr1ck'
+    },
+    'builder': {
+        'email': 'simetrikautomation5@gmail.com',
+        'pass': 'Automation2*S1m3tr1ck'
+    }
+}

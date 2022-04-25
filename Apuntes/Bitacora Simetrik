@@ -1,0 +1,96 @@
+
+
+Proyecto: no code
+squad: 3
+
+Thalia Jimenez: medicina prepagada
+
+Valores Simetrik
+explosive focus : aprovechar el tiempo
+limitless excellence : imnovacion  
+Evolution: velcoidad sin perder calidad.
+Enjoy the struggle :  apasioada
+
+Joiner rojas: Seguridad y correos 
+Katerin portela: asistentes administrativas (pagos)
+Dina calderon: asistente alejoy santy 
+
+Pedro Chavez
+simetrik.com y token guardian
+
+
+******************************************************
+SGSI (sistema de gestion de la seguridad de la informacion)
+
+norma: iso 27001 riesgos y aplicacion 
+PCI: controles de pago
+
+
+
+7CUZG7XG93XBDUH62W2J2DT1
+usuario-aws: wilson-salazarsimetrik
+
+BDD ---------------------------
+
+--Feature: ----------.
+Scenario:            | 
+Given: ***           |  
+When:                |
+Then: ***            |
+---------------------.
+
+===== Meets Importantes ===== 
+2022/April/04: Onboarding parte 2: realise en aws ramas
+2022/April/08: RDS-Sentry
+
+
+
+==== Credenciales RDS Postgre ====
+#DB_HOST="qa-product-db.c3zaailrqhhj.us-east-2.rds.amazonaws.com"
+#DB_NAME="product_db"
+#DB_PORT="5432"
+#DB_PASSWORD="Ra83QFB1u3HyCoYimNwP"
+#DB_USERNAME="productuser"
+
+common_account: 479 tabla de cuentas
+
+
+
+=== Formato reporte de insidecncias ===
+Titulo								   |
+Detalle								   |
+Pasos de Reproducción                  |
+Resultado Esperado. 				   |
+Resultado Obtenido.         		   |
+Evidencias							   |
+=======================================
+
+===== Call room =====
+https://meet.google.com/cvb-zcoh-vgi?authuser=3&hl=en
+
+@qa Desplegando hotfix/no_se_deben_excluir_los_nulos_en_datetime CORE en SUP 
+@qa Desplegando develop en FE - QA 
+@qa Desplegando develop en BE - QA
+@qa Desplegando develop en CORE - QA
+
+===== Ruta cliente id Simetrik en BD =====
+common_account: id=106 name=Simetrik-QA
+
+
+
+==== Temas de nomina y contabilidad ====
+contabilidad@tycconsultores.com.co 		|
+astrid@tycconsultores.com.co            |
+eduar.tovar@tycconsultores.com.co       |
+cc: 									|
+milena.rodriguez@simetrik.com           |
+jorge.tello@simetrik.com 				|
+andres@simetrik.com 					|
+thalia.jimenez@simetrik.common_account	|
+========================================
+
+
+
+
+
+

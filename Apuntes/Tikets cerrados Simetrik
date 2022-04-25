@@ -1,0 +1,182 @@
+
+
+15/03/2022 ---
+https://simetrikinc.atlassian.net/browse/PRD-2705
+
+16/03/2022 ---
+-https://simetrikinc.atlassian.net/browse/PRD-1842
+tony espinoza o melisa nabarro - designers.
+https://docs.google.com/spreadsheets/d/1rApDxz5VSBfnmr9OKxQEWDXMTzk8pjUFI-v_LURTNSc/edit#gid=0
+https://drive.google.com/file/d/13LRSmfgvZxn04mHsoqUkk3pQiuYkyP1F/view
+https://app.zeplin.io/projects
+
+https://simetrikinc.atlassian.net/browse/PRD-1841
+https://app.zeplin.io/project/61957915ded466ab8a286340/screen/619e698d37399c8933e5e567
+https://app.zeplin.io/project/61957915ded466ab8a286340/screen/619e698c7e13c5a0e50d9ed9
+con excepciones
+
+https://simetrikinc.atlassian.net/browse/PRD-1877 cerrada por Beimar Pereira
+
+https://simetrikinc.atlassian.net/browse/PRD-1875
+https://app.zeplin.io/project/61957915ded466ab8a286340/screen/619f13421fab17853ade3936
+
+caso1: https://app.zeplin.io/project/61957915ded466ab8a286340/screen/619e689c1bac08892e58be46
+caso2: https://app.zeplin.io/project/61957915ded466ab8a286340/screen/61af94a2738000725fe5e59d
+caso3: https://app.zeplin.io/project/61957915ded466ab8a286340/screen/619f1341e2337a8c293d167f
+
+Excepciones: 
+caso3B: En la reversion no se encutra este icono mientras se hace el proceso como se muestra en diseño incial(zepelin) 
+https://app.zeplin.io/project/61957915ded466ab8a286340/screen/619f13403bc77f8bd612bc53
+caso3B: 
+-El mensaje de "Se ha revertido el ajuste de # rejistro con exito (zepeling)" no es el mismo de la web actual.
+-El componente de emnsaje tampoco es igual al del diseño inicial (zepelin) como se muestra actualmente en la web.
+https://app.zeplin.io/project/61957915ded466ab8a286340/screen/619f1342e0e81285ffb6d856
+
+17/03/2022 ---
+-https://simetrikinc.atlassian.net/browse/PRD-1854
+https://app.zeplin.io/project/61957915ded466ab8a286340/screen/61957a2eaa6fadab2ca51e1a
+
+
+18/03/2022
+-https://simetrikinc.atlassian.net/browse/PRD-1842
+-https://simetrikinc.atlassian.net/browse/PRD-1879
+https://app.zeplin.io/project/61957915ded466ab8a286340/screen/619f13e9a3fd338db85d2437
+
+22/03/2022
+-https://simetrikinc.atlassian.net/browse/PRD-2645
+-https://simetrikinc.atlassian.net/browse/PRD-2739
+-https://simetrikinc.atlassian.net/browse/PRD-2751
+-https://simetrikinc.atlassian.net/browse/PRD-2753
+
+23/03/2022
+Revision de casos de regresion en testrail, creacion de tikect de bug encontrado, meet con juliana acerca de funcionalidades en app de no-code.
+
+
+24/03/2022
+Al ingresar valores de tipo numérico que terminan en cero, no funciona el filtro de búsqueda.
+PRD-2794
+PRD-2817
+
+-clonar tarea a frontend
+asignar a: Kevin Salazar
+
+Revision de test case ciclo de regresion testrail 
+Meet test con Mauricio Ali acerca del regression bug de filtros en tipo numerico
+creacion tikect en jira 
+
+
+
+25/03/2022
+test case en ciclo de regresion testrail
+creacion de ticket regression bug 
+pruebas con el equipo backed en el caso PRD-2847
+
+
+28/03/2022
+Revision de casos de regresion en testrail, seguimiento a tikets regression bugs
+https://simetrikinc.atlassian.net/browse/PRD-2847
+https://simetrikinc.atlassian.net/browse/PRD-2817
+https://simetrikinc.atlassian.net/browse/PRD-2794
+
+29/03/2022
+reunion con equipo squad para deficnicion de temas abiertos en Ajustes/excusiones 
+organizacion de la meet para el tema de Ajustes/excusiones
+creacion de fuentes en nuevo workspeace simetrik
+
+30/03/2022
+Meet definicion de requerimiento para caso de ajuste/exclusiones
+configuracion de proyecto de automatizacion frontend
+configuraciondel editor de desarrollo 
+seguimiento a tecket abiertos en ciclo regresion 
+
+stopper: configuracion del editor (pychar)
+
+31/03/2022
+seguimiento y cierre de tiques para cierre de eipoca de ajustes/exclusiones
+https://simetrikinc.atlassian.net/browse/PRD-2769
+https://simetrikinc.atlassian.net/browse/PRD-1879
+configuracion de editor proyecto fronted automation 
+
+01/04/2022
+revision de los test case en el proyecto de automatización en ciclo de mantenimiento, meets del día
+configuracion de editor proyecto fronted automation 
+
+
+===== Sprint 2022.7 ===== 
+04/04/2022
+
+meet onboarding  
+seguimiento a tikets
+https://simetrikinc.atlassian.net/browse/PRD-3010
+https://simetrikinc.atlassian.net/browse/PRD-2748
+
+
+
+05/04/2022
+seguiminto y pruebas de tickets
+https://simetrikinc.atlassian.net/browse/PRD-3010
+https://simetrikinc.atlassian.net/browse/PRD-2748
+meets del dia
+descargue sin configuracion del proyecto automatiozacion backend.
+
+06/04/2022
+https://simetrikinc.atlassian.net/browse/PRD-3091
+
+11/04/2022
+Pruebas de humo sobre el ambiente QA
+Seguimiento a tickets en jira y testrail
+
+https://meet.google.com/zsx-gbqv-iei?pli=1&authuser=3
+
+
+12/04/2022
+Creacion tickets en jira durante paso a prod
+meets del dia
+reunion con equipo front y backend en la resolucion de bugs
+revision y cierre de tickets hot fixes 
+
+13/04/2022
+meets del dia 
+seguimiento a tickets en jira
+intento de configuracion data fake project (failed)
+
+20/04/2022
+meets del dia 
+smoke test en ambiente support 
+lectura documentacion gitbook 
+
+
+21/04/2022
+meets del dia 
+creacion de ticket en jira bugs encontrados
+seguimiento a tikcets asignados https://simetrikinc.atlassian.net/browse/PRD-2450
+blok: no puedo crear tableros de porcentajes en ambiente QA 
+
+22/04/2022
+https://simetrikinc.atlassian.net/browse/PRD-3277
+
+meets del dia
+seguiminto a tickets asignados en jira  
+descargue de proyecto data-cleaner
+creacion de ticket en jira bugs encontrados
+
+25/04/2022
+
+
+
+Asigandas
+https://simetrikinc.atlassian.net/browse/PRD-2450
+https://simetrikinc.atlassian.net/browse/PRD-3305
+
+tableros
+porcentaje err
+salud de la fuente ok
+
+
+
+Seguimiento 
+https://simetrikinc.atlassian.net/browse/PRD-3303
+https://simetrikinc.atlassian.net/browse/PRD-3144
+
+
+
