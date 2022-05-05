@@ -12,12 +12,3 @@ conda activate Python3.8.13FakeData
 desactivar 
 conda deactivate
 
-*** Run automation ***
-behave --no-capture --format plain --tags=@alarms-1 -Dtest=qa -Dtestrail=false -Ddriver=local -Dregression_both=true
-
-
-
-self.driver.get(url)
-
-
-luis barrera
