@@ -4,5 +4,5 @@
 behave --no-capture --format plain --tags=@alarms-1 -Dtest=qa -Dtestrail=false -Ddriver=local -Dregression_both=true
 
 *********** Run automation Backend ***********
-pytest -m {pytest_tag} qa
+pytest -m tag --environment qa
 
