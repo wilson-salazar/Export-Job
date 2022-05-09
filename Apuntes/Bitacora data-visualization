@@ -1,0 +1,41 @@
+primera lista de pruebas para dashboard de conciliaciones
+Vista de listas
+GET
+-dashboard
+-folder de dasddasboard
+-buscar dbs
+-buscar folder dbs
+-ordenar por nombre
+-ordenar por creacion
+-ordenar por visuales
+-ordenar por grupos visuales
+PUT
+-mover dbs
+-mover folder dbs
+-cambios nombre de dbs y folder
+-DELECT
+-eliminar dasboard
+-eliminar carpetas
+POST
+-crear dashboard
+-crear folder de dasboard
+-crear dashboard dentro de folder
+-crear folder dentro de dasboard
+Crear dasboard y visuales
+Tipo de dasboard :% de conciliacion
+Tabla 1
+ -- se crean automaticamente 4 visuales
+ -- pruebas de resultados de kpi
+    -- conciliacion
+    -- no conciliacio
+    -- adjustado
+    -- total
+Table 2
+ -- prueba de total amounts a -> b
+Table 3
+ -- prueba de total amounts b -> a
+Table 4
+ -- filtro de fecha del tablero total
+ -- tabla de conciliaciliados
+ -- tabla de unreconciled a
+ -- tabla de unreconciled b
