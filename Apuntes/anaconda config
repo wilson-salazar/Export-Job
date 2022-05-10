@@ -7,7 +7,8 @@ conda create --name [Virtual Environment Name] python=[Version you want to insta
 conda create --name Python3.8.13FakeData python=3.8.13
 
 *** activar entorno ***
-conda activate Python3.8.13FakeData
+conda activate Python3.8.13FakeData  ==> mi pc 
+conda activate Python3.8  ==> simetric pc
 
 desactivar 
 conda deactivate
