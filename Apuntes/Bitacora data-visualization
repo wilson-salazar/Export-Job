@@ -39,3 +39,75 @@ Table 4
  -- tabla de conciliaciliados
  -- tabla de unreconciled a
  -- tabla de unreconciled b
+
+=========================Contexto Vista de lista===========================================
+Se podrá filtrar por carpeta o recurso y atributos categóricos                         
+Para las fuentes, se podrá visualizar el nombre, número de archivos, fecha de creación, estado                          
+Para los tableros, se podrá visualizar el nombre, fecha de creación                          
+Para las conciliaciones, se podrá visualizar el nombre, número de barridas, números de reglas, fecha de última actualización, fecha de creación, estado                          
+Los elementos en borrador se visualiazarán de un contraste desactivado para los visuales de fuentes, conciliaciones y tableros                           
+El buscador mostrará los recursos/carpetas con alguna coincidencia con delay de 500 miliseg a medida que el usuario digita.                           
+La búsqueda sea hace global -todos los recursos, carpetas/subcarpetas-                          
+-En caso de que la búsqueda no arroje resultados, no se mostrará ningún elemento y en la pantalla se mostrará un msj del tipo no se encontraron coincidencias-                         
+Los recursos y carpetas se podrán ordenar de manera ascedente y descendente por cada uno de los atributos disponibles en la pantalla -nombre, estado, fechas, ...-                           
+
+
+======================================================== HU001 Filtrar Recursos =====================================================
+1.1 Pantalla conciliaciones: El usuario podrá aplicar filtros tipo tag para ver todo, carpetas, borradores y conciliaciones. ok
+-vista tags
+--ver todo: ok
+--carpeas: ok
+--borradores: ok 
+--Conciliaciones: ok
+Figma: 1.0 Filtro de TAGS 
+
+1.2 Pantalla conciliaciones:  el usuario podrá filtrar las columnas de estado, última ejecución, creación. Las opciones de filtrado disponible son aquellas para las que al menos exista un registro. En el caso de las fechas, será un filtro tipo calendario que, en caso de que se seleccione un rango de fechas para la cual no existen valores, el resultado será vacío.
+-Columnas
+--estado: ok
+--ultima ejecución: ok
+--creación: 
+
+1.3 Pantalla fuentes: El usuario podrá aplicar filtros tipo tag para ver todo, carpetas, borradores, uniones y fuentes.
+1.4 
+
+======================================================== HU002 Ver Características de Mis Recursos =====================================================
+2.1 Pantalla conciliaciones: Se mostrarán los valores de nombre, estado, última ejecución, creación, barridad, reglas y estado de edición. En caso de que el elemento sea una carpeta, la información de estados, última ejecución, barridad, reglas y edición estarán vacías.
+
+*Scenario: Validar nombres de columnas conciliaciones 
+-Tener conciliaciones creadas
+-Estar en modulo de conciliaciones 
+-Se deben visualizar las columas: Nombre, Estados, Ultima ejecución, Creación, Reglas, Barridas, Edición
+
+*Scenario: Validar contenido de columnas para carpetas en conciliaciones
+-Tener carpetas creadas en conciliaciones
+-Estar en modulo de conciliaciones 
+-Se deben visualizar las culomnas vacias para: estados, última ejecución, barridad, reglas y edición 
+
+2.2 Pantalla fuentes: se mostrarán los valores de nombre, estado, creación y archivos. En caso de que el elemento sea una carpeta, la información de estado y archivos estarán vacías
+
+*Scenario: Validar nombres de columnas fuentes 
+-Tener fuentes creadas
+-Estan en el modulo de fuentes 
+-Se debe visualizar las columnas: nombre, estado, creación y archivos
+
+*Scenario: Validar contenido de columnas para carpetas en fuentes
+-Tener carpetas creadas
+-Estar en el módulo de fuentes
+-Se deben visualizar las columnas vacias para: estados y archivos 
+
+2.3 Pantalla tableros: se mostrarán los valores de nombre, creación y visuales. En el caso en el que el elemento sea una carpeta, la informaciónes de visuales, estará vacía
+
+*Scenario: Validar nombres de columnas tableros
+-Tener tableros creados
+-Estar en el modulo de tableros
+-Se deben visualizar las columnas: Nombre, creación y visuales
+
+*Scenario: Validar contenido de columnas para carpetas en tableros
+-Tener carpetas creadas 
+-Estan en el módulo de tableros
+-Se deben visualizar las columnas vacias para: visuales 
+
+
+
+
+

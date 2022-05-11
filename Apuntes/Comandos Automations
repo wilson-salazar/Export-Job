@@ -6,3 +6,5 @@ behave --no-capture --format plain --tags=@alarms-1 -Dtest=qa -Dtestrail=false -
 *********** Run automation Backend ***********
 pytest -m tag --environment qa
 
+*********** Run Data Fake ***********
+
